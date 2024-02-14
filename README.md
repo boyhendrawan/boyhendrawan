@@ -1,15 +1,15 @@
 ### Hi there 👋 I'm Boy Hendrawan Purba
 
-a front end web developer with React Js and also i have a passion in passionate about Data Science :bar_chart:.
+✨a front end web developer with React Js and also i have a passion in passionate about Data Science :bar_chart:. Personally I really like to do problem solving i hope we can solve together ✨
 
 <!--
-**boyhendrawan/boyhendrawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**boyhendrawan/boyhendrawan** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Machine Learning 
-- 👯 I’m looking to collaborate on Front end base React or Next JS
+- 👯 I’m looking to collaborate on Front end base React or Next JS, relate to ML, and also relate to Pythonic
 - 🤔 I’m looking for help with ...
 
 - 📫 How to reach me: ...
@@ -39,11 +39,14 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
+<br>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
    <br>
    <i>You miss 100% of the shots you don't take.</i>
    <br>
+  <i></i>You can reach me with link below.</i>
+<br>
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/boy-hendrawan-purba-948705157"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>  
 <a target="_blank" href="mailto:boyhendrawanpurba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
